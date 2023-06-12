@@ -1,0 +1,15 @@
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\bin\Debug\net7.0\Rock-Paper-Scissors.exe
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\bin\Debug\net7.0\Rock-Paper-Scissors.deps.json
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\bin\Debug\net7.0\Rock-Paper-Scissors.runtimeconfig.json
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\bin\Debug\net7.0\Rock-Paper-Scissors.dll
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\bin\Debug\net7.0\Rock-Paper-Scissors.pdb
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.AssemblyInfoInputs.cache
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.AssemblyInfo.cs
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.dll
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\refint\Rock-Paper-Scissors.dll
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.pdb
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\Rock-Paper-Scissors.genruntimeconfig.cache
+C:\Users\teres\OneDrive\Documentos\GitHub\Rock-Paper-Scissors\obj\Debug\net7.0\ref\Rock-Paper-Scissors.dll
