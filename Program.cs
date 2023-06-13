@@ -25,6 +25,7 @@ namespace ROCKPAPERSCISSORS
                 {
                     
 
+                    Console.Write("MAN VS THE MACHINE");
                     Console.Write("Choose between ROCK, PAPER and SCISSORS:    ");
                     inputPlayer = Console.ReadLine();
                     inputPlayer = inputPlayer.ToUpper();
@@ -37,55 +38,55 @@ namespace ROCKPAPERSCISSORS
                     {
                         case 1:
                             inputCPU = "ROCK";
-                            Console.WriteLine("Computer chose ROCK");
+                            Console.WriteLine("Machine chose ROCK");
                             if (inputPlayer == "ROCK")
                             {
                                 Console.WriteLine("DRAW!!\n\n");
                             }
                             else if (inputPlayer == "PAPER")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine("MAN WINS!! \../ \n\n");
                                 scorePlayer++;
                             }
                             else if (inputPlayer == "SCISSORS")
                             {
-                                Console.WriteLine("CPU WINS!!\n\n");
+                                Console.WriteLine("Machine wins!!\n\n");
                                 scoreCPU++;
                             }
                             break;
                         case 2:
                             inputCPU = "PAPER";
-                            Console.WriteLine("Computer chose PAPER");
+                            Console.WriteLine("Machine chose PAPER");
                             if (inputPlayer == "PAPER")
                             {
                                 Console.WriteLine("DRAW!!\n\n");
                             }
                             else if (inputPlayer == "ROCK")
                             {
-                                Console.WriteLine("CPU WINS!!\n\n");
+                                Console.WriteLine("Machine wins!!\n\n");
                                 scoreCPU++;
                             }
                             else if (inputPlayer == "SCISSORS")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine("MAN WINS!! \../ \n\n");
                                 scorePlayer++;
                             }
                             break;
                         case 3:
                             inputCPU = "SCISSORS";
-                            Console.WriteLine("Computer chose SCISSORS");
+                            Console.WriteLine("Machine chose SCISSORS");
                             if (inputPlayer == "SCISSORS")
                             {
                                 Console.WriteLine("DRAW!!\n\n");
                             }
                             else if (inputPlayer == "ROCK")
                             {
-                                Console.WriteLine("PLAYER WINS!!\n\n");
+                                Console.WriteLine("MAN WINS!! \../ \n\n");
                                 scorePlayer++;
                             }
                             else if (inputPlayer == "PAPER")
                             {
-                                Console.WriteLine("CPU WINS!!\n\n");
+                                Console.WriteLine("Machine wins!!\n\n");
                                 scoreCPU++;
                             }
                             break;
